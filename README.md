@@ -12,7 +12,7 @@ Claude 3.5 Sonnet
 O projeto foi executado na IA generativa Claude, com prompts para  direcionamento sobre o assunto das IAs generativas e os impactos delas.
 
 ## 🚀 Resultados
-
+https://github.com/dujacobini/lab-natty-or-not/blob/main/Projeto
 
 ## 💭 Reflexão (Opcional)
 Esse projeto fornece uma visão geral abrangente do tema, explorando tanto os benefícios quanto os desafios associados às IAs Generativas.
